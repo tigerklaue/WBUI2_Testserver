@@ -1,0 +1,46 @@
+{
+	"WBUI2": {
+		"settings": {
+			"OpenButton": 0,
+			"HideIcon": false,
+			"IconPosition": 3,
+			"IconURL": "https://i.imgur.com/Dj5qno8.png",
+			"DisableIconText": true,
+			"OpenOnStart": true,
+			"OpenOnStartOnlyNewPlayers": true,
+			"UpdateInterval": 12
+		},
+		"tabs": [
+			{
+				"tab1": {
+					"layout": 2,
+					"buttontext": "Willkommen",
+					"title1": "Willkommen bei DragonKnightArmy!",
+					"text1": "Wir sind eine kleine Gruppe von ARK-Spielern,die sich zusammengetan hat, um einen eigenen Server aufzubauen.\n\nWir freuen uns über jeden neuen Spieler und heißen jeden willkommen.\n\nWir streben eine deutsche Community an, mit der man spielen und Spaß haben kann.\n\nLink zum Discord: https://discord.gg/qT8hB9QQhc \noder der Button Links unten",
+					"title2": "Wichtiges zum Server in Kurz",
+					"text2": "DKA Items werden in der DKA Smithy gebaut.\n\nStellt BaseSaver auf. Ihr dürft 1xMain- und 1xNebenbase haben. Strukturen ausserhalb von Basesavern werden abgerissen. Nachbarn müssen BaseSaver respektieren oder bei anderen Spielern die Erlaubnis haben nahe zu bauen.\n\nEs gibt einen Ingame Item Shop, F3 zum öffnen\n(Konsolenspieler bitte im discord schauen stattdessen).\nEs gibt StarterItems im Shop, mehr wenn ihr euch im Discord registriert im Channel 'DKA-Bot'. \n\nIhr kriegt Punkte über Zeit. Wenn ihr euch im Discord im #DKA-Bot Channel registriert gibts mehr zu kaufen und auch mehr Punkte über Zeit.\n\nBenutzt Cryos zum Dinos einlagern. Im Shop gibts die ersten Pods gratis. Sie benötigen keine Energie.\n\nAb lvl 20 habt ihr Zugriff auf die Teleporter und die öffentlichen Teleporter anderer Spieler. Bei jedem Ark ist ein Teleporter.",
+					"imageurl": "https://i.imgur.com/279qtqU.png"
+				}
+			},
+			{
+				"tab2": {
+					"layout": 2,
+					"buttontext": "Verhalten",
+					"title1": "Verhaltensregeln:",
+					"text1": "§ 1 Keine Hassrede. Behandelt jeden mit Respekt und Höflichkeit.\n\n§ 2 Jeglicher Rassismus ist verboten.\n\n§ 3 Keine Werbung und kein DM werben, solange keine ausdrückliche Erlaubnis durch einen der @Owner erteilt wurde. Capslock und Spammen ist ebenfalls untersagt.\n\n§ 4 Die Kommunikation ist in Chats auf Deutsch oder Englisch zu beschränken.\n\n§ 5 Das posten von unangemessenen Bildern ist untersagt.\n\n§ 6 Stellt sicher, dass euer Name keine anstößigen oder ungeeigneten Wörter enthält.\n\n§ 7 Kein Spamming, außer es ist in einem Channel ausdrücklich erlaubt.\n\n§ 8 Sämtliches beleidigendes, ausfälliges oder gewalttätiges Verhalten wird Konsequenzen nach sich ziehen.\n\n§ 9 Beachtet, dass die Regeln bei uns in Allgemein- und ARK-Regeln unterteilt sind. Lest euch beide aufmerksam durch.\n\n§ 10 Das direkte @erwähnen von @Team-Mitgliedern  ist grundsätzlich untersagt, solange in den Regeln nicht anderes ausgeführt. Wenn ihr unser Team kontaktieren möchtet, nutzt dafür das Ticket-System.\n\n§ 11 Die Nutzung von unter anderem (aber nicht ausschließlich) LingoJam, Zalgo und ähnlichen Fonts seitens der Spieler ist verboten! Wir erlauben keine kryptischen oder unangemessenen Namen.\n\n§ 12 Sämtliche Regeln sind als non-exklusiv zu betrachten.\n\n§ 13 Wir behalten uns vor die Regeln jeder Zeit zu ändern. Es obliegt in der Verantwortung des Spielers sich nach Bekanntgabe damit vertraut zu machen.\n\n§ 14 Entscheidungen der Administration sind nicht Gegenstand öffentlicher Diskussion. Wer gegen eine Entscheidung Berufung einlegen möchte, kann dafür ein Ticket öffnen.\n\n§ 15 Die Administration behält sich das Recht vor in Einzelfällen Entscheidungen zu treffen, die nicht notwendiger Weise eines eindeutigen Regelverstoßes bedürfen.",
+					"title2": "Unsere Spielregeln!",
+					"text2": "§ 1 Die Nutzung mehrerer Accounts durch eine Person ist nicht gestattet.\n\n§ 2 Das Handeln mit Echtgeld - in welcher Form auch immer - ist untersagt.\n\n§ 3 Der Käufer zahlt in jedem Handel zuerst, sofern kein gleichzeitiger Handel möglich ist.\n\n§ 4 Verträge zwischen Vertragspartnern müssen gewahrt werden, außer beide Vertragsparteien stimmen einer Änderung der Konditionen oder einer Annullierung zu.\n\n§ 5 Scammen und Ghosten wird von uns nicht toleriert.\n\n§ 6 Wer unter anderem (jedoch nicht ausschließlich) stiehlt, andere Spieler blockiert, Spieler (deren Dinos oder deren Basen) lootet, sich in Kämpfe einmischt oder mit Dinos eines anderen Spielers züchtet, ohne die ausdrückliche Einwilligung besagten Spielers einzuholen begeht Griefing. Dies wird von uns nicht geduldet.\n\n§ 7 Wer auf dem Server spielt muss einen Stamm haben. Gründet einen, sobald ihr dem Sever beitretet, selbst wenn der Stamm nur temporär ist!\n\n§ 8 Temporäre Strukturen müssen unverzüglich nach Ende ihrer Nutzung wieder entfernt werden.\n\n§ 9 Bauen inner- oder unterhalb des Meshes ist strengstens untersagt, dies inkludiert sogenanntes Undermeshing!\n\n§ 10 Gebiete, welche sich als Farmspots für Ressourcen oder Dinos eignen, dürfen nicht blockiert werden.\n\n§ 11 Gebiete mit besonderer Funktion wie unter anderem (jedoch nicht ausschließlich) Obelisken, Terminals, Artefakte, Dungeoneingänge, Durchgänge, die Biome verbinden und Explorer Notes dürfen nicht blockiert werden.\n\n§ 12 Achtet bei der Errichtung Eurer Basis darauf, dass diese weit genug von anderen entfernt ist. Haltet euch an die Reichweite vom Base Limiter.\n\n§13 Spieler dürfen auf jeder Map EINEN Haupt Base Limiter und EINEN Zweit Base Limiter Haben. Diese müssen sichtbar und zugänglich sein.\n\n§ 14 In Bereichen, in denen Spieler spawnen können dürfen diese nicht in Eurer Basis stecken bleiben, sie müssen auch ohne Dino, Flugtier diese Base verlassen können.\n\n§ 15 Wir übernehmen keine Verantwortung für Spielgeschehen, Crashes oder Bugs und daraus resultierende Verluste werden nicht ersetzt! Für Echtgeld und durch Spenden erworbene Güter kann im Einzefall eine individuelle Ausnahme getroffen werden.\n\n§ 16 Der Spielerschaft ist es untersagt Handel mit Bauland zu betreiben. Es ist jedoch gestattet Spieler zu bezahlen, um eine Basis zu bauen.\n\n§ 17 Spieler tragen die Verantwortung für die Aufrechterhaltung von Farmbereichen. Hierzu zählt unter anderem, aber nicht ausschließlich das vollständige Entleeren von Bieberdämmen und Loot-Drops, sowie das Vermeiden der Blockierung von Dino-Spawns durch Strukturen.\n\n§ 18 Spieler dürfen gezähmte Titanen maximal 24 Stunden lang behalten. Ausnahmen hiervon gelten am Wochenende, solange die Spieler auch den King Titan bekämpfen. Bei Verstoß gegen diese Regel behält die Administration sich vor, überfällige Titanen ohne Warnung zu entfernen, um anderen Spielern das Zähmen zu ermöglichen.\n\n§19 Strukturen und Dinos ohne Stamm und außerhalb der Reichweite eines BaseLimiters werden von den Admins ohne Vorwarnung auf Sicht entfernt.\n\n§20 Spieler dürfen Harzsammler (ohne automatischem Upload), sowie Gassammler und Ölpumpen auch außerhalb ihres BaseSavers bauen. Diese müssen öffentlich zugänglich sein.",
+					"imageurl": ""
+				}
+			}
+		],
+		"links": [
+			{
+				"link1": {
+					"text": "Discord",
+					"url": "https://discord.gg/qT8hB9QQhc"
+				}
+			}
+		]
+	}
+}
